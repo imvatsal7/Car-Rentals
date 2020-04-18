@@ -1,0 +1,10 @@
+installation instructions
+- install xampp
+-extract project to c:/xampp/htdocs
+- find carentals/database/carrentals.sql
+-import database to mysql
+-in the browser tab, type
+-localhost/carentals/index.php to launch project
+--- login details---
+username: tieku2018
+password: tieku123
